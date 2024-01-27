@@ -1,1 +1,1 @@
-# CSE 496
+# CSE 496: Ethical Hacking
